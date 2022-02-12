@@ -1,0 +1,28 @@
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\bin\Debug\FAQBOT.exe.config
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\bin\Debug\FAQBOT.exe
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\bin\Debug\FAQBOT.pdb
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csprojResolveAssemblyReference.cache
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\obj\Debug\FAQBOT.Form1.resources
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\obj\Debug\FAQBOT.Properties.Resources.resources
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csproj.GenerateResource.Cache
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\obj\Debug\FAQBOT.exe
+c:\users\yusmi\documents\visual studio 2015\Projects\FAQBOT\FAQBOT\obj\Debug\FAQBOT.pdb
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\bin\Debug\FAQBOT.exe.config
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\obj\Debug\FAQBOT.exe
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\obj\Debug\FAQBOT.pdb
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csprojResolveAssemblyReference.cache
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\obj\Debug\FAQBOT.Form1.resources
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\obj\Debug\FAQBOT.Properties.Resources.resources
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csproj.GenerateResource.Cache
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\bin\Debug\FAQBOT.exe
+C:\Users\yusmi\Desktop\FAQBOT\FAQBOT\bin\Debug\FAQBOT.pdb
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\bin\Debug\FAQBOT.exe.config
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.exe
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.pdb
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\bin\Debug\FAQBOT.exe
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\bin\Debug\FAQBOT.pdb
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.Form1.resources
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.Properties.Resources.resources
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csproj.GenerateResource.Cache
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csprojAssemblyReference.cache
+F:\ENGINEERING\PROGRAMLAMA ÇALIŞMALARIM\FAQBOT\FAQBOT\obj\Debug\FAQBOT.csproj.CoreCompileInputs.cache
